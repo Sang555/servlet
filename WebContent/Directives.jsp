@@ -9,7 +9,7 @@
 <%@page import="java.util.Date" %>
 <%@page isErrorPage="true" %>
 <%@page session="true" %>
-
+<%@taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c" %>
 <body>
 <h1> Directive Demo</h1>
 <hr>
